@@ -6,7 +6,7 @@
     
 2. List all subscriptions
 
-    az account list
+   az account list --output table
     
 3. Show currently selected subscription
 
