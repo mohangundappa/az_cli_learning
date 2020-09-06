@@ -1,1 +1,6 @@
-# az_cli_learning
+##  Azure CLI Learning
+
+1. Login to Azure
+
+    az login
+
